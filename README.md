@@ -96,8 +96,8 @@ To extract medical entities, for each topic, run the 4 notebooks in the medical_
 In general, the notebooks have the following inputs and output: 
 <ul>
   <li> A selected collection, among the four employed in this work. </li>
-  <li> It reads the original versions of the queries, i.e., topics2021.txt or topics-2014_2015-description.topics. </li>
-  <li> It saves in extracted entities in the extracted_med_entities folder. </li>
+  <li> The original versions of the queries, i.e., topics2021.txt or topics-2014_2015-description.topics. </li>
+  <li> Saves in extracted entities in the extracted_med_entities folder. </li>
 </ul>
 Detailed instructions regarding their implementation are provided in each notebook.
 
@@ -112,23 +112,25 @@ The following notebook implements the information extraction approaches introduc
 In general, it has the following inputs and output: 
 <ul>
   <li> A collection, among the four employed in this work. </li>
-  <li> It reads the original versions of the queries, i.e., topics2021.txt or topics-2014_2015-description.topics. </li>
-  <li> It save in reformulated_topics, the desired topic reformulations. </li>
+  <li> The original versions of the queries, i.e., topics2021.txt or topics-2014_2015-description.topics. </li>
+  <li> Output: The reformulated_topics in csv format. </li>
 </ul>
 Detailed instructions regarding its implementation are provided in the notebook.
 
 # 4. Information Retrieval on TREC Clinical, Clinical Collection, TREC CDS Collections. 
+To use the original topics and any reformulated topic, run the following notebooks, after you have indexed the required document collections and obtained the qrels.
+
 <ul>
-  <li> 1. TREC2021_Experiments.ipynb </li>
-  <li> 1. Clinical_Experiments.ipynb </li>
-  <li> 1. Clinical_Decision_Support_Track_2014_2015.ipynb </li>
+  <li> TREC2021_Experiments.ipynb </li>
+  <li> Clinical_Experiments.ipynb </li>
+  <li> Clinical_Decision_Support_Track_2014_2015.ipynb </li>
 </ul>
 
 In general, the codes have the following inputs and output: 
 <ul>
   <li> A collection, among the four employed in this work. </li>
-  <li> It reads the original versions of the queries, one or more selected query variation and the index. </li>
-  <li> Information retrieval using PyTerrier. </li>
+  <li> The original versions of the queries, one or more selected query variation and the index. </li>
+  <li> Performs information retrieval using PyTerrier. </li>
 </ul>
 
 # 5. Further Information
