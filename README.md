@@ -70,6 +70,7 @@ This repository contains the experiments related to the paper entitled "Investig
 # 2. Medical Entities - Information Extraction Approaches.
 
 
+
 # 3. Information Extraction & Query formulation.
 The following notebook implements the information extraction an query reformulation approaches introduced in the paper. In addition it allows for all possible combinations of methods to be applied. 
 
@@ -77,13 +78,13 @@ The following notebook implements the information extraction an query reformulat
   <li> 1. Query_Reformulation_Techniques.ipynb <\li>
 <\ul>
 
-Detailed instructions regarding its implementation are provided in the notebook. In general, it has the following inputs and output: 
+In general, it has the following inputs and output: 
 <ul>
   <li> A collection, among the four employed in this work. <\li>
   <li> It reads the original versions of the queries, i.e., topics2021.txt or topics-2014_2015-description.topics. <\li>
   <li> It save in reformulated_topics, the desired topic reformulations. <\li>
 <\ul>
-
+Detailed instructions regarding its implementation are provided in the notebook.
 
 # 4. Information Retrieval on TREC Clinical, Clinical Collection, TREC CDS Collections. 
 
