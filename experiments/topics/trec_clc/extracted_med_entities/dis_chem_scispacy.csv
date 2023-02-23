@@ -1,0 +1,76 @@
+TOPIC,DISEASE,CHEMICAL
+1,"['anaplastic astrocytoma', 'lower extremity weakness', 'urinary retention s/p foley catheter', 'hypertension', 'chronic pain', 'tumor', 'anaplastic astrocytoma', 'lower extremity weakness', 'numbness', 'cord conus mass', 'anaplastic astrocytoma']","['steroids', 'temozolomide', 'cpt-11', 'avastin']"
+2,"['htn hyperlipidemia', 'bicuspid aortic valve', 'aortic stenosis', 'biatrial enlargement', 'edema', 'left ventricular hypertrophy', 'valve stenosis', 'bicuspid aortic valve, dilated ascending aorta', 'pulmonary artery systolic hypertension', 'ica stenosis', 'coronary artery disease']","['tte', 'lasix']"
+3,"['headache', ""sudden 'exploding' headache"", 'intraventricular hemorrhage', 'vascular malformation', 'headaches', 'pain']",
+4,"['obesity', 'htn', 'cholecystitis', 'pericardial effusion', 'pericardiocentesis', ""burkitt's lymphoma"", ""burkitt's lymphoma"", 'primary cardiac lymphoma', 'migraines', 'htn', 'obesity', 'non-focal residual deficits 6', 'meningitis', 'dvt']","['pcos', 'fmc-7']"
+5,"['htn', 'dizziness', 'syncope', 'stroke', 'diaphoresis', 'chest pain', 'dyspnea', 'nocturnal dyspnea', 'orthopnea', 'palpitations', 'syncope', 'presyncope', 'carotid stenosis', 'stenosis', 'artery disease anemia', 'hypertension diabetes', 'retinopathy', 'peripheral neuropathy cataracts', 'thyroid nodule colon polyps', 'intermittent lower back pain', 's/p right elbow fracture', 'arthritis']",
+6,"['watery', 'diarrhea', 'weakness', 'infections', 'leukocytosis', 'fever', 'leukocytosis']","['esrd', 'vanco', 'levophed', 'vanco', 'flagyl', 'flagyl', 'vanco', 'flagyl', 'vanco']"
+7,"['cirrhosis', 'esophageal varices', 'gastritis', 'slurred', 'hepatic encephalopathy', 'cirrhosis', 'hcv cirrhosis', 'gastropathy', 'esophageal varices', 'htn', 'gastritis']","['lactulose', 'bilirubin']"
+8,"['splenomegaly', 'cytopenias', 'lymphadenopathy', 'lymphadenopathy', ""richter's transformation""]","['7-/2122', 'campath']"
+9,"['intellectual disability', 'epilepsy', 'seizure', 'focal epilepsy', 'brain injury', 'seizures', 'convulsion', 'seizure', 'seizure', 'seizure', 'epilepsy', 'depression']","['valium', 'dilantin', 'phenobarbital', 'dilantin']"
+10,"['systemic mastocytosis', 'flushing', 'tachycardia']","['steroid', 'steroids', 'diphenydramine', 'aspirin', 'steroids', 'benadryl', 'histamine', 'steroids', 'benadryl', 'prednisone', 'calcium', 'vitamin d', 'bactrim', 'pcp']"
+11,"['papillary thyroid cancer', 'dysphagia', 'weight loss', 'lethargy', 'papillary thyroid cancer', 'tumor', 'hernia']",['--high']
+12,"[""marfan's syndrome"", 'mitral valve prolapse', 'mitral valve repair/replacement', 'mitral regurgitation gastric reflux disease', 'diabetes mellitus hypertension', 'obesity', 'cataract']",['tte']
+13,"['urosepsis', 'urosepsis', 'non-obstructing stone', 'urethral strictures', 's/p cva neurogenic bladder s/p', 'non-hodgkins', 'palsy', 'hypertension', 'partial bowel obstruction', 's/p colostomy hepatitis', 'cryoglobulinemia', 'transverse myelitis', 'diabetic fungal esophagitis', 'urinary tract']","['utis', 'vanc/meropenem', 'detrol']"
+14,"['copd', 'obesity hypoventilation syndrome', 'agitation', 'hypoxia', 'agitation', 'edema', 'weight gain', 'edema', 'fever', 'cough', 'chills', 'pain', 'pain', 'hypoventilation syndrome - obstructive sleep apnea', 'ventricular tachycardia', 'schizophrenia - copd - pneumona']","['pcp', 'lasix', 'appetite']"
+15,"['abdominal mass', 'bandemia', 'mid-abdominal pain', 'vomiting', 'pancreatic adenocarcinoma', 'diverticular abscess', 'diverticulitis', 'abscess', 'coronary artery disease', 'mitral valve prolapse', 'atrial fibrillation', 'hyperlipemia', 'hypertension', 'chronic kidney disease', 'hypothyroidism', 'anemia']","['fevers/rigors', 'ceftriaxone', 'flagyl']"
+16,"['hypoxemia', 'dyspnea', 'pulmonary hypertension', 'copd', 'shortness of breath', 'dyspneic', 'hypotension', 'atrial septal defect repair [', 'sinus arrest', 'asd - copd', 'cpap', 'mitral regurgitation - microcytic anemia', 'hypothyroidism - s/p appy', 'gallstone pancreatitis']","['oxygen', 'sildenafil', 'sildenafil', 'amiodarone']"
+17,"['multiple myeloma', 'systemic amyloidosis', 'hypercalcemia', 'myeloma', 'edema']","['pamidronate', 'calcitonin', 'melphalan', 'prednisone', 'vad', 'thalidomide velcade', 'thalidomide']"
+18,['bulbar urethral stricture'],['q4h']
+19,"['htn', 'ventricular tachycardia', 'syncope', 'syncope', 'ventricular arrhythmias', 'syncope', 'bradycardia', 'presyncope', 'nausea', 'chest pain']",
+20,"['acne', 'hirsutism', 'snoring', 'headache', 'acromegaly', 'hirsutism', 'diaphoresis', 'macroadenoma']","['testosterone', 'octreotide', 'iud']"
+21,"['abdominal pain', 'vomiting', 'pain', 'allergies', 'diabetes', 'leukocytosis', 'obstructive pancreatitis']","['alcohol', 'urea', 'glc']"
+22,"['abdominal pain', 'pain', 'pain', 'pain', 'focal tenderness', 'pain', 'leukocytosis', 'appendiceal', 'perforation', 'abscess', 'gangrene']",
+23,"['cough', 'shortness of breath', 'cough', 'wheezing', 'shortness of breath', 'chest tightness', 'allergic rhinitis']","['inhaler', 'fluticasone', 'mcg']"
+24,"['urinary tract', 'prostate']","['vit', 'creatinine', 'glc', 'nitrite']"
+25,"['infiltrating ductal breast carcinoma', 'tumor', 'her2-positive']","['er/pr', 'multivitamins', 'alcohol']"
+26,"['abdominal pain', 'nausea', 'vomiting', 'pain', 'pain', 'pain', 'hypercholesterolemia', 'febrile', 'tenderness', 'tenderness', 'leukocytosis', 'gallstones', 'gallstone']","['smoke', 'alcohol']"
+27,"['chronic hcv infection', 'inguinal hernia', 'hepatocellular carcinoma', 'chronic inflammation', 'chronic viral hepatitis', 'alcoholic liver disease', 'bleeding', 'esophageal varices', 'hemochromatosis', 'autoimmune hepatitis', 'metabolic liver disease', 'ascites', 'tenderness', 'edema']",['ifn']
+28,"['shortness of breath', 'copd', 'htn']",['vit']
+29,"['diabetes', 'hyperglycemia', 'diabetic ketoacidosis', 'diabetes', 'polyuria', 'polydipsia', 'polyphagia', 'diabetes', 'diabetic ketoacidosis', 'hyperglycemia', 'nausea', 'vomiting']","['glucose', 'glucose', 'glargine', 'aspart', 'creatinine', 'aspartate', 'alanine', 'beta-hydroxybutyrate', 'bicarbonate']"
+30,"['fatigue', 'weight gain', 'abnormal spotting', 'hirsutism', 'hashimoto', 'thyroiditis']",['levothyroxine']
+31,['cervical cancer'],['alcohol']
+32,"['vomiting', 'non-bloody diarrhea', 'abdominal pain', 'fever', 'chills', 'loss of appetite', 'diarrhea', 'jaundice', 'abdominal tenderness', 'schistocytes']","['creatinine', 'mg/dl blood urea nitrogen', 'bilirubin', 'lactate']"
+33,"['allergies', 'tonsillectomy']",
+34,"['mood', 'depressed', 'weight loss', 'colon cancer']","['alcohol', 'vit d3 1000 units daily.']"
+35,"['headache', 'pain', 'nausea', 'photophobia', 'migraine headache']",
+36,"['tall', 'apnea']","['fbs', 'cholesterol']"
+37,"['dysarthria', 'numbness', 'lower extremities weakness', 'multiple sclerosis']","['pcp', 'alcohol', 'rrms']"
+38,"['myasthenia gravis', 'diplopia', 'fatigue', 'hypertension']","['anti-achr', 'sfemg', 'pyridostigmine', 'alcohol', 'creatinine']"
+39,"['jaundice', 'icteric', 'jaundice']","['°', 'bilirubin', 'bilirubin', 'creatinine', 'urea', 'na']"
+40,"['headaches', 'generalized', 'bone pain', 'hypertension', ""paget's disease of bone""]",['bisphosphonate']
+41,"[""parkinson's disease"", 'slowness', 'tremors', 'hypertension', 'hypercholesterolemia', 'slowness', 'dementia']","['levodopa', 'trihexyphenidyl']"
+42,"['headache', 'leg swelling', 'fatigue', 'fever', 'chills', 'headaches', 'shortness of breath', 'cough', 'chest pain', 'orthopnea', 'palpitations', 'skin rash', 'abdominal pain', 'nausea', 'vomiting', 'dysuria', 'hematuria', 'frothy', 'leg swelling', 'back pain', 'htn']","['vitamins', 'alcohol', 'smoking']"
+43,"['stroke', 'pneumonia', 'febrile', 'abdominal pain', 'diarrhea', 'bowel movements', 'hyperactive bowel', 'febrile', 'hypotensive', 'clostridium difficile toxin']","['greenish, liquid stool each time)', '°']"
+44,"['scoliosis', 'back pain', 'pain', 'complaints of shoulder imbalance', 'scoliosis']",
+45,"['sickle cell disease', 'bone pain', 'pain', 'sickle cell crises', 'pain', 'venous pain', 'splenomegaly']","['oxycodone', 'pcp']"
+46,"['cough', 'nocturnal sweating', 'loss of appetite']","['mycobacterium tuberculosis', 'isoniazid', 'streptomycin', 'rifampicin', 'ethambutol', 'na', 'creatinine']"
+47,"['lower extremity weakness', 'slurred', 'dyspnea', 'headache', 'palpitations', 'chest pain', 'fever', 'dizziness', 'bowel or urinary incontinence', 'loss of consciousness', 'hypertension', 'hyperlipidemia', 'hypothyroidism', 'left-sided facial droop', 'dysarthria', 'left-sided hemiplegia', 'stroke', 'infarct']","['alcohol', 'levothyroxine', 'atorvastatin', 'statin']"
+48,"['itchy', 'sore', 'fissuring', 'tearing', 'hyperlipidemia', 'tinea pedis infection']",
+49,"['stature', 'puberty', 'turner syndrome']","['estrogen', 'fbs']"
+50,"['testis', 'non-palpable testis', 'abdominal undescended testis']",
+51,"['fever', 'chills', 'nausea', 'vomiting', 'dysuria', 'pain', 'tenderness']",
+52,"['dizziness', 'diarrhea', 'abdominal pain', 'bloating', 'nausea', 'loose bowel movements', 'watery diarrhea', 'watery', 'fever', 'looks ill', 'dry mucosa', 'fecal occult blood negative\n']","['sodium', 'potassium', 'meq/l chloride 94meq/l']"
+53,['joints pain'],"['vit', 'phosphorus']"
+54,"['weight loss', 'dry cough', 'necrotic granulomas', ""wegener's granulomatosis"", 'vasculitis', 'non-icteric']","['corticosteroid', 'cyclophosphamides', '2700/mm3']"
+55,"['tremors', 'tremor', 'tremor', 'jaundice', 'hepatosplenomegaly', 'hypotonia', 'aggressive behavior', 'wilson disease']",['kayser-fleischer']
+56,"['acromegaly', 'pituitary tumor', 'acromegaly', 'pituitary adenoma']","['vitamin d', 'multivitamins']"
+57,"['abdominal pain', 'vomiting', 'pain', 'allergies', 'hypertension', 'leukocytosis', 'interstitial pancreatitis', 'enlarged common bile duct and intrahepatic duct', 'gall stone pancreatitis']","['alcohol', 'multivitamins', 'urea', 'glucose']"
+58,"['pain', 'pain', 'nausea', 'vomiting', 'tenderness', 'tenderness', 'appendicitis', 'phlegmon', 'abdominal abnormalities']",
+59,"['shortness of breath', 'cough']",['zafirlukast']
+60,"['prostate', 'prostate']","['creatinine', 'glc', 'nitrite']"
+61,"['breast cancer', 'ductal breast carcinoma', 'tumor', 'her2-positive', 'tumor']","['er/pr', 'multivitamins', 'iron', 'alcohol']"
+62,"['dizziness', 'headaches', 'diabetes mellitus', 'stenosis', 'stenosis']","['smoking', 'glucose', 'triglyceride']"
+63,"['abdominal pain', 'nausea', 'vomiting', 'pain', 'pain', 'hypercholesterolemia', 'febrile', 'tenderness', 'tenderness', 'leukocytosis', 'gallstones']","['smoke', 'alcohol']"
+64,"['hbv', 'hepatocellular carcinoma', 'chronic inflammation', 'chronic viral hepatitis', 'alcoholic liver disease', 'bleeding', 'esophageal varices', 'hemochromatosis', 'autoimmune hepatitis', 'metabolic liver disease', 'ascites', 'tenderness', 'edema']",['ifn']
+65,"['diabetes', 'shortness of breath', 'fatigue', 'dyspnea', 'dyspnea', 'cardiomyopathy']","['ace inhibitors', 'vitamin d', 'fbs', 'cholesterol', 'hdl']"
+66,"['weight gain', 'abnormal menstrual cycles', 'hashimoto disease']",['smoke']
+67,['abnormal cervical squamous intraepithelial/glandular lesion'],['alcohol']
+68,"['septicemia', 'respiratory failure', 'renal failure', 'microangiopathic hemolytic anemia', 'thrombocytopenia', 'hemolytic uremic syndrome']","['lactate', 'acwy conjugate vaccine', 'adamts13']"
+69,['allergies'],['multivitamins']
+70,"['mdd', 'mood', 'depressed', 'colon cancer']","['anti-depressants', 'alcohol', 'smoke']"
+71,"['tall', 'apnea']","['appetite suppressants', 'fbs', 'cholesterol']"
+72,"['myasthenia gravis', 'diplopia', 'weakness', 'upper extremities']","['anti-achr', 'sfemg', 'immunosuppressants', 'creatinine']"
+73,"['jaundice', 'jaundice']","['°', 'bilirubin', 'bilirubin', 'creatinine', 'urea', 'na']"
+74,"['headaches', 'generalized', 'bone pain', ""paget's disease of bone"", ""paget's disease of bone""]",['bisphosphonate']
+75,"[""parkinson's disease"", 'slowness', 'tremors', 'hypertension', 'hypercholesterolemia', 'dementia']","['levodopa', 'trihexyphenidyl']"
