@@ -4,10 +4,10 @@ This repository contains the experiments related to the paper entitled "Investig
 
 # Contents
 
-1. [Folder Structure] Contains the topics for the collections related to Clinical Trials and the extracted query reformulations.
-2. [Code] Medical Entities - Information Extraction Approaches.
-3. [Code] Information Extraction & Query formulation.
-4. [Code] Information Retrieval on TREC Clinical, Clinical Collection, TREC CDS Collections. 
+1. [Folder Structure] Information related to the available code, topics, collections and query reformulations.
+2. [Describes Code] Medical Entities - Information Extraction Approaches.
+3. [Describes Code] Information Extraction & Query formulation.
+4. [Describes Code] Information Retrieval on TREC Clinical, Clinical Collection, TREC CDS Collections. 
 5. [Information] 
 
 
@@ -131,6 +131,6 @@ In general, the codes have the following inputs and output:
   <li> Information retrieval using PyTerrier. </li>
 </ul>
 
+# 5. Further Information
 
-
-
+For any further information send an email at georgios.peikos@unimib.it.
