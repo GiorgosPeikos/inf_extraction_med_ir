@@ -17,7 +17,7 @@ This repository contains the experiments related to the paper entitled "Investig
   <ul>
     <li>indices</li>
        <ul>
-         <li>Contains the indices of TREC2021 clinical (trec_clc folder), the clinical collection (clinical floder). For the latter, refer to the paper for download details.</li>
+         <li>Add the indices of TREC2021 clinical (trec_clc folder), the clinical collection (clinical floder). For the latter, refer to the paper for download details.</li>
          <li>CDS collections are obtained by ir_datasets.</li>
          <li>[sub-folder] trec_clc</li>
          <li>[sub-folder] clinical</li>
@@ -28,9 +28,9 @@ This repository contains the experiments related to the paper entitled "Investig
         </ul>
       <li>qrels</li>
        <ul>
-          <li>Contains the TREC 2021 clinical qrels.</li>
-          <li>Contains the qrels related to the other clinical collection.</li>
-          <li>CDS collections are obtained by ir_datasets.</li>
+          <li>Add the TREC 2021 clinical qrels. [refer to TREC 2021 Clinical trials task.]</li>
+          <li>Add the qrels related to the other clinical collection [Refer to the paper for download details.].</li>
+          <li>For the CDS collections qrels are obtained by ir_datasets.</li>
         </ul>
       <li>topics
         <ul>
@@ -118,17 +118,17 @@ In general, it has the following inputs and output:
 Detailed instructions regarding its implementation are provided in the notebook.
 
 # 4. Information Retrieval on TREC Clinical, Clinical Collection, TREC CDS Collections. 
-
 <ul>
   <li> 1. TREC2021_Experiments.ipynb </li>
-  <li> 1. TREC2021_Experiments.ipynb </li>
-  <li> 1. TREC2021_Experiments.ipynb </li>
+  <li> 1. Clinical_Experiments.ipynb </li>
+  <li> 1. Clinical_Decision_Support_Track_2014_2015.ipynb </li>
 </ul>
 
 In general, the codes have the following inputs and output: 
 <ul>
   <li> A collection, among the four employed in this work. </li>
-  <li> It reads the original versions of the queries, a selected query variation and the index. </li>
+  <li> It reads the original versions of the queries, one or more selected query variation and the index. </li>
+  <li> Information retrieval using PyTerrier. </li>
 </ul>
 
 
