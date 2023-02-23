@@ -103,7 +103,7 @@ Detailed instructions regarding their implementation are provided in each notebo
 
 
 # 3. Information Extraction & Query formulation.
-The following notebook implements the information extraction an query reformulation approaches introduced in the paper. In addition it allows for all possible combinations of methods to be applied. 
+The following notebook implements the information extraction approaches introduced in the paper. In addition it allows for all possible combinations of methods to be applied. 
 
 <ul>
   <li> 1. Query_Reformulation_Techniques.ipynb </li>
