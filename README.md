@@ -1,6 +1,6 @@
 # Investigating the Impact of Query Representation on Medical Information Retrieval
 
-This repository contains the experiments related to the paper entitled "Investigating the Impact of Query Representation on Medical Information Retrieval", published in 
+This repository contains the experiments related to the paper entitled "Investigating the Impact of Query Representation on Medical Information Retrieval", published in European Conference on Information Retrieval 2023.
 
 # Contents
 
@@ -133,6 +133,16 @@ In general, the codes have the following inputs and output:
   <li> Performs information retrieval using PyTerrier. </li>
 </ul>
 
-# 5. Further Information
+# 5. Further Information and Citation
 
 For any further information send an email at georgios.peikos@unimib.it.
+
+Please cite: 
+@inproceedings{peikos2023investigating,
+  title={Investigating the Impact of Query Representation on Medical Information Retrieval},
+  author={Peikos, Georgios and Alexander, Daria and Pasi, Gabriella and de Vries, Arjen P},
+  booktitle={European Conference on Information Retrieval},
+  pages={512--521},
+  year={2023},
+  organization={Springer}
+}
